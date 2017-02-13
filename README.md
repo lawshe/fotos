@@ -5,7 +5,7 @@ Change created, modified, and last opened dates of images
 ``` bash
 $ git clone https://github.com/lawshe/fotos.git
 $ cd fotos
-$ mkdir fotos
+$ mkdir img
 ```
 
 Add images to update to /img in fotos directory
